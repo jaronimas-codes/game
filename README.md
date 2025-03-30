@@ -1,39 +1,36 @@
-🎯 Guess My Number!
-A simple and engaging number guessing game built with HTML, CSS, and JavaScript.
+# 🎯 Guess My Number!
 
-🚀 Features
-Interactive Gameplay: Guess a number between 1 and 20.​
+A simple and engaging **number guessing game** built with **HTML**, **CSS**, and **JavaScript**.
 
-Dynamic Feedback: Receive hints if your guess is too high or too low.​
+## 🚀 Features
 
-Score Tracking: Keep track of your current score and highscore.​
+- **Interactive Gameplay:* Guess a number between 1 and 2.
+- **Dynamic Feedback:* Receive hints if your guess is too high or too lo.
+- **Score Tracking:* Keep track of your current score and highscor.
+- **Responsive Design:* Enjoy a seamless experience on various device.
 
-Responsive Design: Enjoy a seamless experience on various devices.​
+## 🌐 Live Demo
 
-🌐 Live Demo
-Play the game here: Guess My Number!
+Play the game here: [Guess My Number!](https://game-git-main-jaronimas-codes.vercel.app/)
 
-🛠️ Built With
-HTML5
+## 🛠️ Built With
 
-CSS3
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
 
-JavaScript (ES6+)
+## 📦 Getting Started
 
-📦 Getting Started
-Clone the repository:
+1. **Clone the repository:**
 
-bash
-Copy
-Edit
-git clone https://github.com/jaronimas-codes/guess-my-number.git
-Navigate to the project directory:
+   ```bash
+   git clone https://github.com/jaronimas-codes/guess-my-number.git
+   ```
 
-bash
-Copy
-Edit
-cd guess-my-number
-Open index.html in your preferred browser.
+2. **Navigate to the project directory:**
 
-🤝 Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your enhancements.
+   ```bash
+   cd guess-my-number
+   ```
+
+3. **Open `index.html` in your preferred browser.**
